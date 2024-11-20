@@ -1,4 +1,5 @@
-This repository contains SQL queries designed to analyze pizza order data.
+This project contains SQL queries designed to analyze pizza order data.
+
 The project utilizes multiple SQL functions to extract valuable insights regarding pizza sales, revenue, order details, and customer preferences.
 The analysis uses various aggregate functions, joins, and window functions & CTEs to calculate important business metrics.
 
